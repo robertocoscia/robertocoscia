@@ -1,3 +1,4 @@
+***
 👋 Hi there! I'm Roberto
 🏢 I'm currently working as a Jr Front End Developer at Sixth Sense srl
 ⚙️ I love to code in TypeScript, Angular, React, Gatsby
