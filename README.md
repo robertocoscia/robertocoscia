@@ -1,9 +1,9 @@
 ***
 - 👋 Hi there! I'm Roberto
-- 🏢 I'm currently working as a Jr Front End Developer at Sixth Sense srl
-- ⚙️ I love to code in TypeScript, Angular, React, Gatsby
-- 🔭 I'd like to work more on Next.js
-- 🗣  I am working on my personal growth, on becoming an expert Front End Developer 
+- 🏢 I'm currently working as a QA Engineer at TikTok
+- ⚙️ I love to learn new technologies, in the field of QA automation,DevOps Engineering.
+- 🔭 I'd like to work more on QA automation/ DevOp tasks.
+- 🗣  I am working on my personal growth, on becoming an expert DevOps Engineer
 
 
 <!--
